@@ -1,7 +1,15 @@
 Customer_Segmentation_RFV
 ==============================
 
-RFV Customer Semgmentation
+RFV Customer Segmentation
+
+## 
+
+### Tecnologias utilizadas
+
+* [![Python][Python]][Python-url]
+* [![PBI][PowerBI]][pbi-url]
+* [![VSCode][vscode]][vscode-url]
 
 Project Organization
 ------------
@@ -27,3 +35,10 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+[Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow
+[Python-url]: https://www.python.org/
+[PowerBI]: https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=yellow
+[pbi-url]: https://powerbi.microsoft.com/pt-br/
+[vscode]: https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue
+[vscode-url]: https://code.visualstudio.com/
