@@ -5,6 +5,8 @@ Neste projeto, abordei a tarefa de segmentação de clientes por meio da aplica�
 
 O principal objetivo deste projeto é oferecer uma visão abrangente de como a segmentação de clientes com base na análise RFV e a aplicação do algoritmo KMeans podem ser utilizadas de forma sinérgica para criar uma abordagem mais personalizada e direcionada ao gerenciamento de clientes. Ao identificar segmentos distintos, a empresa pode otimizar seus recursos, concentrando-se nas áreas de maior potencial e adaptando suas abordagens para melhor atender às expectativas e preferências dos clientes.
 
+Após a segmentação, apliquei meus conhecimentos em Power BI para a criação de um dashboard contendo as informações rotuladas(dizendo a qual cluster eles pertencem) dos clientes.
+
 ### Pré-requisitos
 
 A versão Python utilizada neste projeto é a 3.10.7
@@ -28,13 +30,15 @@ A versão Python utilizada neste projeto é a 3.10.7
    ```sh
    pip install -r requirements.txt
    ```
-### Tecnologias utilizadas
+### Tecnologias utilizadas:
 
 * [![Python][Python]][Python-url]
 * [![PBI][PowerBI]][pbi-url]
 * [![VSCode][vscode]][vscode-url]
 
+### Dashboard:
 
+[dashboard][dashboard-url]
 
 <!-- Structure -->
 ## Estrutura do diretório
@@ -67,5 +71,5 @@ A versão Python utilizada neste projeto é a 3.10.7
 [pbi-url]: https://powerbi.microsoft.com/pt-br/
 [vscode]: https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue
 [vscode-url]: https://code.visualstudio.com/
-
+[dashboard]:C:\Users\joaoi\Cust_Seg_Project\reports\figures\dashboard_rfv.PNG
 
