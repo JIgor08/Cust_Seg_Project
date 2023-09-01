@@ -38,7 +38,7 @@ A versão Python utilizada neste projeto é a 3.10.7
 
 ### Dashboard:
 
-[!Dashboard de RFV](C:\Users\joaoi\Cust_Seg_Project\reports\figures\dashboard_rfv.PNG)
+[!Dashboard de RFV](reports\figures\dashboard_rfv.PNG)
 
 <!-- Structure -->
 ## Estrutura do diretório
