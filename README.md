@@ -1,7 +1,9 @@
-Customer_Segmentation_RFV
+Segmentação de Clientes com RFV
 ==============================
 
-RFV Customer Segmentation
+Neste projeto, abordei a tarefa de segmentação de clientes por meio da aplicação do algoritmo KMeans, uma técnica de aprendizado de máquina não supervisionado amplamente reconhecida por sua eficácia na descoberta de padrões ocultos em conjuntos de dados. Ao aplicar o KMeans às métricas RFV, buscamos identificar grupos de clientes com comportamentos semelhantes, permitindo que a empresa adapte suas estratégias de marketing e atendimento de acordo com as necessidades específicas de cada segmento.
+
+O principal objetivo deste projeto é oferecer uma visão abrangente de como a segmentação de clientes com base na análise RFV e a aplicação do algoritmo KMeans podem ser utilizadas de forma sinérgica para criar uma abordagem mais personalizada e direcionada ao gerenciamento de clientes. Ao identificar segmentos distintos, a empresa pode otimizar seus recursos, concentrando-se nas áreas de maior potencial e adaptando suas abordagens para melhor atender às expectativas e preferências dos clientes.
 
 ## 
 
