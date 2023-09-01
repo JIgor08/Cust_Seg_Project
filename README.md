@@ -5,13 +5,36 @@ Neste projeto, abordei a tarefa de segmentação de clientes por meio da aplica�
 
 O principal objetivo deste projeto é oferecer uma visão abrangente de como a segmentação de clientes com base na análise RFV e a aplicação do algoritmo KMeans podem ser utilizadas de forma sinérgica para criar uma abordagem mais personalizada e direcionada ao gerenciamento de clientes. Ao identificar segmentos distintos, a empresa pode otimizar seus recursos, concentrando-se nas áreas de maior potencial e adaptando suas abordagens para melhor atender às expectativas e preferências dos clientes.
 
-## 
+### Pré-requisitos
 
+A versão Python utilizada neste projeto é a 3.10.7
+* Pip (Windows)
+  ```sh
+  py get-pip.py
+  ```
+* Virtual Env (Opcional)
+  ```sh
+  pip install virtualenv
+  ```
+
+### Instalação
+
+1. Clone o repositório
+   ```sh
+   git clone https://github.com/JIgor08/Cust_Seg_Project.git
+   ```
+2. Crie e ative um ambiente virtual (Opcional)
+3. Instale os pacotes
+   ```sh
+   pip install -r requirements.txt
+   ```
 ### Tecnologias utilizadas
 
 * [![Python][Python]][Python-url]
 * [![PBI][PowerBI]][pbi-url]
 * [![VSCode][vscode]][vscode-url]
+
+
 
 <!-- Structure -->
 ## Estrutura do diretório
@@ -44,3 +67,5 @@ O principal objetivo deste projeto é oferecer uma visão abrangente de como a s
 [pbi-url]: https://powerbi.microsoft.com/pt-br/
 [vscode]: https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue
 [vscode-url]: https://code.visualstudio.com/
+
+
