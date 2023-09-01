@@ -37,7 +37,6 @@ A versão Python utilizada neste projeto é a 3.10.7
 * [![VSCode][vscode]][vscode-url]
 
 ### Dashboard:
-
 [!Link para o Dashboard](https://github.com/JIgor08/Cust_Seg_Project/blob/main/reports/figures/dashboard_rfv.PNG)
 
 <!-- Structure -->
@@ -65,7 +64,7 @@ A versão Python utilizada neste projeto é a 3.10.7
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
-[Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow
+[Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow1
 [Python-url]: https://www.python.org/
 [PowerBI]: https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=yellow
 [pbi-url]: https://powerbi.microsoft.com/pt-br/
