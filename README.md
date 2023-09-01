@@ -38,7 +38,7 @@ A versão Python utilizada neste projeto é a 3.10.7
 
 ### Dashboard:
 
-[![chartpbi][chart-pbi]](https://github.com/JIgor08/Cust_Seg_Project/blob/main/reports/figures/dashboard_rfv.PNG)
+[!Link para o Dashboard](https://github.com/JIgor08/Cust_Seg_Project/blob/main/reports/figures/dashboard_rfv.PNG)
 
 <!-- Structure -->
 ## Estrutura do diretório
