@@ -58,7 +58,16 @@ O Dataset utilizado contém informações de vendas online ocorridas no Reino Un
 - <b> Country</b>: País do comprador
 
 ### Desenvolvimento:
-Foram aplicadas diversas técnicas durante o projeto: <b> Feature Selection </b>, <b> Feature Engineering </b>, <b> Métodos para a escolha do número adequado de Clusters (Elbow Method e Silhuette Method) </b>, <b> Técnicas de remoção de Outliers</b>, <b> Algoritmo KMeans para clusterização</b>, <b> Técnicas de visualização para análise dos Clusters</b>, <b> Análise dos produtos vendidos </b> e, por fim, <b> Criação de um Dashboard contendo as informações dos clientes segmentados </b>
+Foram aplicadas diversas técnicas durante o projeto:
+- <b> Feature Selection </b>
+- <b> Feature Engineering </b>
+- <b> Métodos para a escolha do número adequado de Clusters (Elbow Method e Silhuette Method) </b>
+- <b> Técnicas de remoção de Outliers</b>
+- <b> Algoritmo KMeans para clusterização</b>
+- <b> Técnicas de visualização para análise dos Clusters</b>
+- <b> Análise dos produtos vendidos </b>
+- <b> Criação de um Dashboard contendo as informações dos clientes segmentados </b>
+
 ### Dashboard:
 [!Link para o Dashboard](https://github.com/JIgor08/Cust_Seg_Project/blob/main/reports/figures/dashboard_rfv.PNG)
 
@@ -86,6 +95,8 @@ Foram aplicadas diversas técnicas durante o projeto: <b> Feature Selection </b>
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+Esse projeto foi executado sob a licença MIT, para mais informações acesse o arquivo LICENSE.tx
 
 [Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow1
 [Python-url]: https://www.python.org/
