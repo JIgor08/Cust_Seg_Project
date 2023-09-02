@@ -5,6 +5,8 @@ Neste projeto, abordei a tarefa de segmentação de clientes por meio da aplica�
 
 O principal objetivo deste projeto é oferecer uma visão abrangente de como a segmentação de clientes com base na análise RFV e a aplicação do algoritmo KMeans podem ser utilizadas de forma sinérgica para criar uma abordagem mais personalizada e direcionada ao gerenciamento de clientes. Ao identificar segmentos distintos, a empresa pode otimizar seus recursos, concentrando-se nas áreas de maior potencial e adaptando suas abordagens para melhor atender às expectativas e preferências dos clientes.
 
+O dataset utilizado nesse projeto pode ser baixado neste link: https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering
+
 Após a segmentação, apliquei meus conhecimentos em Power BI para a criação de um dashboard contendo as informações rotuladas(dizendo a qual cluster eles pertencem) dos clientes.
 
 ### Pré-requisitos
