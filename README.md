@@ -36,6 +36,27 @@ A versão Python utilizada neste projeto é a 3.10.7
 * [![PBI][PowerBI]][pbi-url]
 * [![VSCode][vscode]][vscode-url]
 
+### Dataset:
+O Dataset utilizado contém informações de vendas online ocorridas no Reino Unido durante um período de pouco mais de um ano e possui as seguintes colunas:
+
+- <b> InvoiceNo</b>: Valor único para cada compra
+
+- <b> StockCode</b>: Código do estoque
+
+- <b> Description</b>: Descrição do produto
+
+- <b> Quantity</b>: Quantidade de produtos comprados
+
+- <b> InvoiceDate</b>: Data da compra
+
+- <b> UnitPrice</b>: Preço por unidade de produto
+
+- <b> CustomerID</b>: Identificador do cliente
+
+- <b> Country</b>: País do comprador
+
+### Desenvolvimento:
+Foram aplicadas diversas técnicas durante o projeto: <b> Feature Selection </b>, <b> Feature Engineering </b>, <b> Métodos para a escolha do número adequado de Clusters (Elbow Method e Silhuette Method) </b>, <b> Técnicas de remoção de Outliers</b>, <b> Algoritmo KMeans para clusterização</b>, <b> Técnicas de visualização para análise dos Clusters</b>, <b> Análise dos produtos vendidos </b> e, por fim, <b> Criação de um Dashboard contendo as informações dos clientes segmentados </b>
 ### Dashboard:
 [!Link para o Dashboard](https://github.com/JIgor08/Cust_Seg_Project/blob/main/reports/figures/dashboard_rfv.PNG)
 
